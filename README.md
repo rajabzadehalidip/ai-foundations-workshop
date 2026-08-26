@@ -7,6 +7,7 @@ Standalone workshop materials for Ali Rajabzadeh, Researcher at Sharif Center fo
 - `index.html` — standalone presentation; open locally or host with GitHub Pages.
 - `competition-openrouter-embeddings-colab.ipynb` — Google Colab activity using OpenRouter embeddings, PCA, classification, and review queues.
 - `competition-corpus.csv` — classroom dataset with public-source links and paraphrased competition-policy material.
+- `competition-corpus-fa.csv` — Persian classroom dataset with natural, paraphrased Iranian digital-market examples.
 - `competition-hands-on-guide.md` — facilitator instructions and discussion questions.
 
 ## Share the presentation

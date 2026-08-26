@@ -2,11 +2,13 @@
 
 Use the [OpenRouter Colab notebook](./competition-openrouter-embeddings-colab.ipynb) for the workshop version. It uses OpenRouter's OpenAI-compatible embeddings endpoint and includes PCA visualization, centroid classification, a review queue, and a confusion matrix.
 
+For the Iranian-market classroom version, upload `competition-corpus-fa.csv`. The text is Persian and the category labels are Persian; the notebook code does not need to change.
+
 ## Learning objective
 
 Students will compare keyword search with semantic embeddings, classify a small corpus using a human-labelled gold set, inspect uncertain cases, visualize the embedding space, and discuss why evaluation and source traceability matter.
 
-The exercise uses short **paraphrases** of public competition-policy material. The texts are not presented as quotations or as legal findings. Students should open the linked official source before making any substantive claim.
+The exercise uses short Persian **paraphrases** of public competition-policy material and near-real educational examples. The texts are not presented as quotations or as legal findings. Students should open the linked official source before making any substantive claim.
 
 ## Suggested timing: 45–60 minutes
 
