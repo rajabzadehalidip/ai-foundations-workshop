@@ -28,3 +28,7 @@ Upload `telegram_policy_radar_4topics_fa.csv` into `telegram_policy_radar_4topic
 ## GitHub Pages
 
 After pushing this folder to a GitHub repository, enable Pages under **Settings → Pages → Deploy from branch → main → /(root)**. The presentation will be available at the repository's GitHub Pages URL.
+
+## Session 2
+
+All Session 2 materials are in [session-2](session-2/README.md): the editable prompt-engineering and n8n deck, the n8n live-demo guide, the facilitator guide, a generative-model comparison Colab, and the shared cleaned Persian dataset.
