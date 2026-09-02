@@ -14,7 +14,7 @@ Students should leave able to turn a conversational LLM task into a controlled w
 | Break | 10 min | — |
 | n8n live build | 50 min | Create the policy-signal triage workflow with Google Sheets and a structured output parser. |
 | Agent discussion | 20 min | Compare predictable workflows with bounded agents; define tool permissions and stop conditions. |
-| Generative model Colab | 45 min | Run DeepSeek, GPT-5, or Ollama on the same 25-post sample; inspect result rows. |
+| Generative model Colab | 45 min | Run GapGPT or Ollama on the same 25-post sample; inspect result rows. |
 | Closing comparison | 15 min | Discuss model disagreement and where human review belongs. |
 
 ## Materials
@@ -37,7 +37,7 @@ Use the exact same prompt and four labels in n8n and Colab. This helps students 
 
 ## Colab recommendation
 
-Default to deepseek_openrouter for a quicker class run. Have students run only 25 posts. Demonstrate direct GPT-5 only if you have an OpenAI project key and budget ready. Treat the Ollama-in-Colab route as an optional demonstration: downloading and running Gemma 3 can be slow on a free Colab runtime.
+Default to GapGPT for a quicker class run. Have students run only 25 posts. Use the Windows Ollama guide for the local Gemma 3:4b practice. Treat the Ollama-in-Colab route as an optional demonstration: downloading and running Gemma 3 can be slow on a free Colab runtime.
 
 For a genuine local-model demonstration, use the Ollama installation on your own Windows machine rather than Colab.
 
