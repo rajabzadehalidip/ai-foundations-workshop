@@ -1,0 +1,24 @@
+- main [ref=e2]:
+  - generic [ref=e3]: Sharif Center for AI Strategy and Transformation
+  - heading "AI Foundations Workshop" [level=1] [ref=e4]
+  - paragraph [ref=e5]: Three practical sessions for using AI in competition, market, regulation, and policy research. Choose a session below to open its editable presentation and complete teaching materials.
+  - region "Workshop sessions" [ref=e6]:
+    - article [ref=e7]:
+      - generic [ref=e8]: Session 01
+      - heading "Foundations, APIs & embeddings" [level=2] [ref=e9]
+      - paragraph [ref=e10]: What LLMs are, why APIs matter, and how embeddings can classify and map Persian policy signals from Telegram.
+      - generic [ref=e11]:
+        - link "Open presentation" [ref=e12] [cursor=pointer]:
+          - /url: ./session-01/
+        - link "Materials" [ref=e13] [cursor=pointer]:
+          - /url: ./session-01/README.md
+    - article [ref=e14]:
+      - generic [ref=e15]: Session 02
+      - heading "Prompting, n8n & AI agents" [level=2] [ref=e16]
+      - paragraph [ref=e17]: Prompt engineering, model limitations, beginner-friendly n8n automation, agents, and generative text classification.
+      - generic [ref=e18]:
+        - link "Open presentation" [ref=e19] [cursor=pointer]:
+          - /url: ./session-02/presentation.html
+        - link "Materials" [ref=e20] [cursor=pointer]:
+          - /url: ./session-02/README.md
+  - generic [ref=e21]: Ali Rajabzadeh · Researcher, Sharif Center for AI Strategy and Transformation

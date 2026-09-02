@@ -1,0 +1,13 @@
+- generic [active] [ref=e1]:
+  - main [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: AI Foundations Workshop · Session 2
+      - heading "Make LLM work reproducible." [level=1] [ref=e6]: Make LLM workreproducible.
+      - paragraph [ref=e7]: Prompt engineering · limitations · n8n · agents · generative classification
+      - paragraph [ref=e8]: Ali Rajabzadeh · Sharif Center for AI Strategy and Transformation
+    - text: ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸ ▸
+  - generic [ref=e9]:
+    - button "‹" [ref=e10] [cursor=pointer]
+    - generic [ref=e11]: 1 / 25
+    - button "›" [ref=e12] [cursor=pointer]
+  - generic [ref=e13]: AI Foundations Workshop · Session 2 · Press E to edit
