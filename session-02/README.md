@@ -12,11 +12,11 @@ This folder contains everything needed for the second three-hour session.
 
 ## Contents
 
-- presentation.html — 25-slide Session 2 deck: prompt engineering, LLM weaknesses, n8n, agents, and generative text classification.
+- presentation.html — 32-slide Session 2 deck: prompt engineering, LLM weaknesses, n8n, agents, and generative text classification.
 - session-2-facilitator-guide.md — teaching sequence and setup notes.
 - session-2-n8n-live-demo-guide.md — no-code n8n policy-signal triage demonstration.
 - n8n-windows-step-by-step.html — beginner-friendly Windows installation and first workflow guide.
-- generative-text-classification-session-2-colab.ipynb — English-only Colab comparing DeepSeek through OpenRouter, GPT-5, and Ollama/Gemma.
+- generative-text-classification-session-2-colab.ipynb — English-only Colab using a GapGPT API key by default, with optional direct GPT-5 and Ollama/Gemma routes.
 - telegram_policy_radar_4topics_fa.csv — cleaned, unlabeled Persian dataset shared with Session 1.
 
 ## Security and research notes
